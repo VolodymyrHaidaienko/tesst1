@@ -1,0 +1,19 @@
+.AddUser {
+    display: flex;
+    column-gap: 20px;
+    height: 100px;
+    vertical-align: bottom;
+    margin-top: 10px;
+}
+
+.AddUser div {
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.AddUser div button {
+    display: table-cell;
+    vertical-align: bottom;
+    margin-top: 25%
+}
+

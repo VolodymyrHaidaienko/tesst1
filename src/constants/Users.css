@@ -1,0 +1,30 @@
+.FormUser {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    margin: 20px;
+}
+
+.FormUser button{
+    margin-top: 0;
+}
+
+select {
+    height: 40px;
+    width: 150px;
+}
+
+input {
+    height: 40px;
+}
+
+.Form1 {
+    column-gap: 10px;
+    display: flex;
+}
+.UsersButton{
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+}
+

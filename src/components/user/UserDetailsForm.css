@@ -1,0 +1,28 @@
+.UserDetailsForm {
+    margin-top: 10px;
+    text-align: left;
+    column-gap: 20px;
+    margin-left: 10px;
+}
+
+.UserDetailsForm h6 {
+    font-size: 12px;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.UserDetailsForm div {
+    text-align: left;
+}
+
+.Button {
+    display: flex;
+    column-gap: 20px;
+}
+.Cancel{
+    background: white;
+    color: black;
+    border: solid;
+    border-color: gray;
+    font-weight: normal;
+}
